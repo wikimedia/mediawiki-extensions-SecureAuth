@@ -73,4 +73,13 @@ class SpecialSecureAuthInfo extends SpecialPage {
 
 		return $formDescriptor;
 	}
+
+	/**
+	 * Group this special page under the correct header in Special:SpecialPages.
+	 *
+	 * @return string
+	 */
+	protected function getGroupName() {
+		return 'users';
+	}
 }
