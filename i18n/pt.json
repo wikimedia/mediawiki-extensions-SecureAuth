@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Athena in Wonderland"
+		]
+	},
+	"secureauthinfo": "SecureAuthInfo",
+	"special-secureauth-info": "Informação de autenticação segura",
+	"secureauth-info-userinfo": "Informação do utilizador",
+	"secureauth-current-ip": "O seu endereço IP de início de sessão:"
+}
