@@ -8,7 +8,7 @@ class SpecialSecureAuthInfo extends SpecialPage {
 	/**
 	 * Show the page to the user
 	 *
-	 * @param string $sub
+	 * @param string|null $sub
 	 */
 	public function execute( $sub = null ) {
 		$this->checkPermission();
