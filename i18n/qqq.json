@@ -9,5 +9,6 @@
 	"special-secureauth-info": "Page title of the SecureAuthInfo special page.",
 	"secureauth-info-userinfo": "Section for User Information",
 	"secureauth-current-ip": "Label for the Your Current Login IP",
-	"secureauth-whitelist-ip": "Label for the IPs that Whitelist for your username login"
+	"secureauth-whitelist-ip": "Label for the IPs that Whitelist for your username login",
+	"right-sa-access": "{{doc-right|sa-access}}"
 }
