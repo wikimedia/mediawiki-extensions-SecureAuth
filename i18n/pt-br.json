@@ -9,5 +9,6 @@
 	"special-secureauth-info": "Informação de autenticação segura",
 	"secureauth-info-userinfo": "Informação do Usuário",
 	"secureauth-current-ip": "O seu endereço IP de início de sessão:",
-	"secureauth-whitelist-ip": "IPs que Whitelist para seu login de nome de usuário:"
+	"secureauth-whitelist-ip": "IPs que Whitelist para seu login de nome de usuário:",
+	"right-sa-access": "Permitir que o usuário permita a [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
