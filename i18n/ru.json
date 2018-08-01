@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Evs"
+			"Evs",
+			"Vlad5250"
 		]
 	},
 	"secureauth-desc": "Разрешить участнику добавлять свой IP для входа в систему. Вход с другого IP завершится ошибкой.",
@@ -9,5 +10,6 @@
 	"special-secureauth-info": "Безопасная идентификация",
 	"secureauth-info-userinfo": "Информация об участнике",
 	"secureauth-current-ip": "Ваш текущий IP входа:",
-	"secureauth-whitelist-ip": "IP-адреса в белом списке для вашего имени пользователя:"
+	"secureauth-whitelist-ip": "IP-адреса в белом списке для вашего имени пользователя:",
+	"right-sa-access": "позволяет участнику иметь доступ к [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
