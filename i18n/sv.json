@@ -4,5 +4,6 @@
 			"WikiPhoenix"
 		]
 	},
-	"secureauth-info-userinfo": "Användarinformation"
+	"secureauth-info-userinfo": "Användarinformation",
+	"right-sa-access": "Låter användaren komma åt [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
