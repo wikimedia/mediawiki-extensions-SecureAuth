@@ -12,3 +12,8 @@ $specialPageAliases = [];
 $specialPageAliases['en'] = [
 	'SecureAuthInfo' => [ 'SecureAuthInfo' ]
 ];
+
+/** Kannada(Kannada) */
+$specialPageAliases['kn'] = [
+	'SecureAuthInfo' => [ 'ಸುರಕ್ಷಿತದೃಢೀಕರಣಮಾಹಿತಿ', 'SecureAuthInfo' ]
+];
