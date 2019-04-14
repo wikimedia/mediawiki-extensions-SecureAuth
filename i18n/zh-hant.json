@@ -10,5 +10,6 @@
 	"secureauth-info-userinfo": "使用者資訊",
 	"secureauth-current-ip": "您目前的登入 IP：",
 	"secureauth-whitelist-ip": "用於您的使用者名稱登入之白名單 IP：",
+	"action-sa-access": "存取 SecureAuthInfo",
 	"right-sa-access": "允許使用者存取 [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
