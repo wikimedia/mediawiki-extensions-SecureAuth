@@ -10,5 +10,6 @@
 	"secureauth-info-userinfo": "Кориснички податоци",
 	"secureauth-current-ip": "Ваша тековна најавна IP-адреса:",
 	"secureauth-whitelist-ip": "IP-адреси допуштени за најава:",
+	"action-sa-access": "пристап до податоци за безбедна најава",
 	"right-sa-access": "Дозвола за пристап до [[Special:SecureAuthInfo|Информации за безбедна заверка]]"
 }
