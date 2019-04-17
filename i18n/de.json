@@ -10,5 +10,6 @@
 	"secureauth-info-userinfo": "Benutzerinformationen",
 	"secureauth-current-ip": "Deine aktuelle Anmelde-IP-Adresse:",
 	"secureauth-whitelist-ip": "IP-Adressen auf der weißen Liste für deine Benutzernamen-Anmeldung:",
+	"action-sa-access": "auf SecureAuthInfo zuzugreifen",
 	"right-sa-access": "Dem Benutzer den Zugriff auf [[Special:SecureAuthInfo]] erlauben"
 }
