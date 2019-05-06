@@ -10,5 +10,6 @@
 	"secureauth-info-userinfo": "Зьвесткі ўдзельніка",
 	"secureauth-current-ip": "Ваш цяперашні IP-адрас:",
 	"secureauth-whitelist-ip": "IP-адрасы, якія знаходзяцца ў белым сьпісе, для ўваходу з вашым імем удзельніка:",
+	"action-sa-access": "доступ да зьвестак бясьпечнага ўваходу",
 	"right-sa-access": "Дазваляе ўдзельніку мець доступ да [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
