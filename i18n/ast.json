@@ -10,5 +10,6 @@
 	"secureauth-info-userinfo": "Información del usuariu",
 	"secureauth-current-ip": "La to IP actual d'aniciu de sesión:",
 	"secureauth-whitelist-ip": "IPs que tán na Llista autorizada pal aniciu de sesión col to nome d'usuariu:",
+	"action-sa-access": "accesu a SecureAuthInfo",
 	"right-sa-access": "Permite al usuariu l'accesu a [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
