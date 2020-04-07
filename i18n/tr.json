@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hedda",
-			"BaRaN6161 TURK"
+			"BaRaN6161 TURK",
+			"Hedda"
 		]
 	},
 	"secureauth-desc": "Kullanıcıya  Giriş için IP eklemesine izin ver. Başka bir IP'den giriş başarısız olacaktır.",
