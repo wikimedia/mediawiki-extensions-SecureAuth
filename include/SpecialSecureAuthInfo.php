@@ -26,13 +26,10 @@ class SpecialSecureAuthInfo extends SpecialPage {
 		$htmlForm->show();
 	}
 
-	/**
-	 * @return null
-	 */
+	/** @inheritDoc */
 	public function checkPermission() {
 		if ( !$this->userCanExecute( $this->getUser() ) ) {
 			$this->displayRestrictionError();
-			return;
 		}
 	}
 
