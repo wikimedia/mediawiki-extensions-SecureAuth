@@ -11,5 +11,5 @@
 	"secureauth-current-ip": "Your Current Login IP:",
 	"secureauth-whitelist-ip": "IPs that Whitelist for your username login:",
 	"action-sa-access": "access SecureAuthInfo",
-	"right-sa-access": "Allow the user to access [[Special:SecureAuthInfo|SecureAuthInfo]]"
+	"right-sa-access": "Access [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
