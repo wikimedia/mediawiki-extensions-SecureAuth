@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"GuoPC",
 			"Liuxinyu970226"
 		]
 	},
@@ -9,5 +10,6 @@
 	"special-secureauth-info": "安全验证信息",
 	"secureauth-info-userinfo": "用户信息",
 	"secureauth-current-ip": "您当前的登录IP：",
-	"secureauth-whitelist-ip": "为便于您的用户名登录，设置的白名单IP："
+	"secureauth-whitelist-ip": "为便于您的用户名登录，设置的白名单IP：",
+	"right-sa-access": "访问[[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
