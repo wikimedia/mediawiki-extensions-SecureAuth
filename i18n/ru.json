@@ -3,6 +3,7 @@
 		"authors": [
 			"Evs",
 			"Movses",
+			"Okras",
 			"Vlad5250"
 		]
 	},
@@ -13,5 +14,5 @@
 	"secureauth-current-ip": "Ваш текущий IP входа:",
 	"secureauth-whitelist-ip": "IP-адреса в белом списке для вашего имени пользователя:",
 	"action-sa-access": "доступ к SecureAuthInfo",
-	"right-sa-access": "позволяет участнику иметь доступ к [[Special:SecureAuthInfo|SecureAuthInfo]]"
+	"right-sa-access": "Иметь доступ к [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
