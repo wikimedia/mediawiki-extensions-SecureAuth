@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Renessaince"
 		]
 	},
 	"secureauth-desc": "Дазваляе ўдзельнікам дадаць свой IP-адрас для ўваходу ў сыстэму. Уваход зь іншага IP-адрасу не атрымаецца.",
@@ -11,5 +12,5 @@
 	"secureauth-current-ip": "Ваш цяперашні IP-адрас:",
 	"secureauth-whitelist-ip": "IP-адрасы, якія знаходзяцца ў белым сьпісе, для ўваходу з вашым імем удзельніка:",
 	"action-sa-access": "доступ да зьвестак бясьпечнага ўваходу",
-	"right-sa-access": "Дазваляе ўдзельніку мець доступ да [[Special:SecureAuthInfo|SecureAuthInfo]]"
+	"right-sa-access": "Доступ да [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
