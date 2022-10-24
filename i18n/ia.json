@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"secureauth-desc": "Permitte al usator de adder su adresse IP pro aperir session. Le apertura de session desde un altere adresse IP fallera.",
+	"secureauthinfo": "InfoAuthSecur",
+	"special-secureauth-info": "Information de authentication secur",
+	"secureauth-info-userinfo": "Information de usator"
+}
