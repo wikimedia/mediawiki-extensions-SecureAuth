@@ -13,5 +13,5 @@
 	"secureauth-current-ip": "أيبي تسجيل دخولك الحالي:",
 	"secureauth-whitelist-ip": "عناوين الآيبي التي تم إدراجها في القائمة البيضاء لتسجيل الدخول إلى اسم المستخدم الخاص بك:",
 	"action-sa-access": "الوصول لSecureAuthInfo",
-	"right-sa-access": "السماح للمستخدم بالوصول إلى [[Special:SecureAuthInfo|معلومات مصادقة آمنة]]"
+	"right-sa-access": "الوصول [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
