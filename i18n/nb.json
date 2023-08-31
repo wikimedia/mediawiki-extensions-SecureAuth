@@ -11,5 +11,5 @@
 	"secureauth-current-ip": "Din nåværende innloggings-IP:",
 	"secureauth-whitelist-ip": "IP-er som er hvitelistet for innlogging med ditt brukernavn:",
 	"action-sa-access": "få tilgang til SecureAuthInfo",
-	"right-sa-access": "Har tilgang til [[Special:SecureAuthInfo|SecureAuthInfo]]"
+	"right-sa-access": "Få tilgang til [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
