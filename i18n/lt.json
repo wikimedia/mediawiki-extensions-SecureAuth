@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"secureauth-desc": "Leidžia naudotojams pridėti IP prisijungimui. Prisijungimas iš kito IP nepavyks.",
+	"secureauth-info-userinfo": "Naudotojo informacija",
+	"secureauth-current-ip": "Jūsų dabartinis prisijungimo IP:"
+}
