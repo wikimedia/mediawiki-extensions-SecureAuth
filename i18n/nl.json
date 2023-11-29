@@ -1,8 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mainframe98"
+			"Mainframe98",
+			"McDutchie"
 		]
 	},
-	"secureauth-info-userinfo": "Gebruikersgegevens"
+	"secureauth-desc": "Hiermee kan de gebruiker het eigen IP-adres voor aanmelding opgeven. Het aanmelden vanaf een ander IP-adres zal dan niet werken.",
+	"secureauthinfo": "Info veilige authenticatie",
+	"special-secureauth-info": "Informatie over veilige authenticatie",
+	"secureauth-info-userinfo": "Gebruikersgegevens",
+	"secureauth-current-ip": "Uw huidige IP-adres voor aanmelden:",
+	"secureauth-whitelist-ip": "Toegelaten IP-adressen voor aanmelding met uw gebruikersnaam:",
+	"action-sa-access": "informatie over veilige authenticatie te bekijken",
+	"right-sa-access": "Toegang hebben tot [[Special:SecureAuthInfo|informatie over veilige authenticatie]]"
 }
