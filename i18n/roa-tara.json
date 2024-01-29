@@ -11,5 +11,5 @@
 	"secureauth-current-ip": "l'IP tune de mò:",
 	"secureauth-whitelist-ip": "IP jndr'à lista vianghe pe l'accesse tune cu 'u nome utende:",
 	"action-sa-access": "tràse cu SecureAuthInfo",
-	"right-sa-access": "Permette a l'utende de trasè cu [[Special:SecureAuthInfo|SecureAuthInfo]]"
+	"right-sa-access": "Accesse jndr'à [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
