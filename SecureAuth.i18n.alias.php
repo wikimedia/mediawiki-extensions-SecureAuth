@@ -20,5 +20,5 @@ $specialPageAliases['kn'] = [
 
 /** Telugu (Telugu) */
 $specialPageAliases['te'] = [
-	'SecureAuthInfo' => [ 'సెక్యూర్ఆత్ఇన్ఫో','SecureAuthInfo' ]
+	'SecureAuthInfo' => [ 'సెక్యూర్ఆత్ఇన్ఫో', 'SecureAuthInfo' ]
 ];

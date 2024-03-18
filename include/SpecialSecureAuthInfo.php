@@ -42,21 +42,21 @@ class SpecialSecureAuthInfo extends SpecialPage {
 				'section' => 'userinfo',
 				'type' => 'info',
 				'label-message' => 'username',
-				'default' => $this->getUser()->getName() ,
+				'default' => $this->getUser()->getName(),
 				'raw' => true
 			],
 			'useremail' => [
 				'section' => 'userinfo',
 				'type' => 'info',
 				'label-message' => 'youremail',
-				'default' => $this->getUser()->getEmail() ,
+				'default' => $this->getUser()->getEmail(),
 				'raw' => true
 			],
 			'usereip' => [
 				'section' => 'userinfo',
 				'type' => 'info',
 				'label-message' => 'secureauth-current-ip',
-				'default' => $this->getRequest()->getIP() ,
+				'default' => $this->getRequest()->getIP(),
 				'raw' => true
 			],
 			'userewhitelistip' => [
