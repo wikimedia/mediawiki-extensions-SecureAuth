@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Banjo"
+			"Banjo",
+			"Toliño"
 		]
 	},
-	"secureauth-desc": "Permitir que o usuario engada a súa IP para iniciar unha sesión. O acceso dende outro enderezo IP fallará.",
-	"secureauthinfo": "Información de Secure Auth",
+	"secureauth-desc": "Permitir que o usuario engada o seu enderezo IP para iniciar unha sesión. O acceso dende outro enderezo IP fallará.",
+	"secureauthinfo": "SecureAuthInfo",
 	"special-secureauth-info": "Información de autenticación segura",
 	"secureauth-info-userinfo": "Información do usuario",
 	"secureauth-current-ip": "O seu enderezo IP actual de inicio de sesión:",
-	"secureauth-whitelist-ip": "Enderezos IPs na lista branca para o seu nome de usuario:",
+	"secureauth-whitelist-ip": "Enderezos IP na lista branca para o seu nome de usuario:",
 	"action-sa-access": "acceder a SecureAuthInfo",
-	"right-sa-access": "Permitir que o usuario acceda a [[Special:SecureAuthInfo|Información de autenticación segura]]"
+	"right-sa-access": "Acceder a [[Special:SecureAuthInfo|SecureAuthInfo]]"
 }
