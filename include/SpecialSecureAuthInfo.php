@@ -14,7 +14,7 @@ class SpecialSecureAuthInfo extends SpecialPage {
 		$this->checkPermission();
 		$out = $this->getOutput();
 
-		$out->setPageTitle( $this->msg( 'special-secureauth-info' ) );
+		$out->setPageTitle( $this->msg( 'special-secureauth-info' )->escaped() );
 		$out->addHelpLink( 'Extension:SecureAuth' );
 
 		$formDescriptor = $this->showuserinfo();
