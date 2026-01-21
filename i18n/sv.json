@@ -1,10 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Stefan2255"
 		]
 	},
+	"secureauth-desc": "Tillåt användaren att lägga till sin IP-adress för inloggning. Inloggning från en annan IP-adress kommer att misslyckas.",
+	"secureauthinfo": "SäkerAutentInfo",
+	"special-secureauth-info": "Säker autentiseringsinformation",
 	"secureauth-info-userinfo": "Användarinformation",
+	"secureauth-current-ip": "Din nuvarande inloggnings-IP:",
+	"secureauth-whitelist-ip": "IP-adresser som vitlistas för ditt användarnamn/inloggning:",
 	"action-sa-access": "komma åt SecureAuthInfo",
-	"right-sa-access": "Låter användaren komma åt [[Special:SecureAuthInfo|SecureAuthInfo]]"
+	"right-sa-access": "Åtkomst till [[Special:SecureAuthInfo|SäkerAutentiseringsinfo]]"
 }
