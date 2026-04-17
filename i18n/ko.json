@@ -1,13 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
+			"Tensama0415",
 			"Theshinster123",
 			"Ykhwong"
 		]
 	},
+	"secureauth-desc": "사용자가 로그인에 사용할 IP 주소를 추가할 수 있도록 허용합니다. 다른 IP 주소로 로그인하면 실패합니다.",
 	"secureauthinfo": "보안인증정보",
 	"special-secureauth-info": "보안 인증 정보",
 	"secureauth-info-userinfo": "사용자 정보",
 	"secureauth-current-ip": "현재 로그인 IP:",
+	"secureauth-whitelist-ip": "사용자 이름 로그인에 대해 허용된 IP 주소 목록:",
+	"action-sa-access": "SecureAuthInfo에 접근",
 	"right-sa-access": "[[Special:SecureAuthInfo|SecureAuthInfo]] 액세스"
 }
