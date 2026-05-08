@@ -2,7 +2,12 @@
 
 class SpecialSecureAuthInfo extends SpecialPage {
 	public function __construct() {
-		parent::__construct( 'SecureAuthInfo', 'sa-access' );
+		parent::__construct( 'SecureAuthInfo' );
+	}
+
+	/** @inheritDoc */
+	public function getRestriction(): string {
+		return 'sa-access';
 	}
 
 	/**
