@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"secureauth-desc": "Umožňuje používateľovi pridať svoju IP adresu na prihlásenie. Prihlásenie z inej IP adresy zlyhá.",
+	"secureauthinfo": "SecureAuthInfo",
+	"special-secureauth-info": "Informácie o zabezpečenom overení",
+	"secureauth-info-userinfo": "Informácie o používateľovi",
+	"secureauth-current-ip": "Vaša aktuálna IP adresa prihlásenia:",
+	"secureauth-whitelist-ip": "IP adresy povolené na prihlásenie pod vaším používateľským menom:",
+	"action-sa-access": "pristupovať k SecureAuthInfo",
+	"right-sa-access": "Prístup k [[Special:SecureAuthInfo|SecureAuthInfo]]"
+}
