@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"secureauth-desc": "کارن ته اجازه ورکوي چې ننوتلو لپاره خپله وېبپته ورگډه کړي. د بلې وېبپتې څخه ننوتل به ناکام شي.",
+	"secureauthinfo": "د خوندي‌تاييد‌مالومات",
+	"special-secureauth-info": "د خوندي تاييد مالومات",
+	"secureauth-info-userinfo": "د کارن مالومات",
+	"secureauth-current-ip": "ستاسو د ننوتلو اوسنۍ وېبپته:",
+	"secureauth-whitelist-ip": "هغه وېبپتې چې ستاسو د کارن‌نوم ننوتنې لپاره سپينلړ شوې دي:",
+	"action-sa-access": "د خوندي‌تاييد‌مالوماتو ته لاسرسی",
+	"right-sa-access": "د [[Special:SecureAuthInfo|خوندي‌تاييد‌مالوماتو]] ته لاسرسی"
+}
